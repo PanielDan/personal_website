@@ -45,3 +45,16 @@ body {
 	background-color: gray;
 	color: white;
 }
+
+.test-img {
+	padding-top: 3em;
+	display:flex;
+	max-width: 60%;
+	min-width: 60%;
+	margin:auto;
+}
+
+.selected-link {
+	background-color: gray;
+	color: white !important;
+}

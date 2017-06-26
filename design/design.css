@@ -1,0 +1,7 @@
+.design-test-img{
+	padding-top: 3em;
+	display:flex;
+	max-width: 60%;
+	min-width: 60%;
+	margin:auto;
+}
